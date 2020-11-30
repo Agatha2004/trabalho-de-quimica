@@ -46,6 +46,13 @@ footer{
   margin-top: 1%;
 }
 
+header img{
+  margin-top: -1%;
+  margin-left: -2%;
+  width: 10%;
+  float: left;
+}
+
 header h1,
 header h2,
 header h3{
