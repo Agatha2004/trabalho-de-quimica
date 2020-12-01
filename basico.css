@@ -53,11 +53,7 @@ header h3{
 }
  
 header h1::before{
-  content: "Química"
-}
- 
-header h3::before{
-  content: "Prof.: Carlos Zacchi"
+  content:"QuiParada!!"
 }
  
 header h2{
