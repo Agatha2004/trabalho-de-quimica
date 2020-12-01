@@ -46,7 +46,19 @@ footer{
   margin-top: 1%;
 }
 
-header img{
+header imgheader img{ //pular;
+  display: inline-block;
+  width: 10%;
+  position: relative;
+  animation: pulo .5s ease-in-out 0s infinite alternate;
+}
+
+@keyframes pulo {
+  from { top: 0;      }
+  to   { top: -15px;  }
+}
+
+{
   margin-top: -1%;
   margin-left: -2%;
   width: 10%;
