@@ -53,7 +53,9 @@ header h3{
 }
  
 header h1::before{
-  content:"QuiParada!!"
+  content:"QuiParada!!";
+  border:solid 2px black;
+  text-align: center;
 }
  
 header h2{
@@ -132,10 +134,6 @@ margin-top: -1%;
 margin-left: -2%;
 width: 10%;
 float: left;
-}
-.titulo{
-border:solid 2px black;
-text-align: center;
 }
 #sobre {
    text-align: center;
