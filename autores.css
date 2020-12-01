@@ -1,6 +1,6 @@
 main article{
-display: inline block; //ficar um do lado do outro
-width: %; //largura
-background: cor d fundo
-border:
+display: inline block;
+width: %;
+background:#f0f8ffeb;
+border:solid 1px black; 
 }
