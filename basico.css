@@ -19,14 +19,14 @@ header{
  
 nav{
   position: fixed;
-  top: 19%;
+  top: 20%;
   background-color: #f0f8ffeb;
   float: left;
   width: 11%;
   height: 70%;
   border: solid 1px black;
   padding: 1%;
-  margin-top: 2%;
+  margin-top: 3%;
   font-size: 125%;
 }
  
