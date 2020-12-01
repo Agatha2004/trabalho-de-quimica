@@ -71,10 +71,6 @@ header h3{
   margin: 3px;
 }
 
-header h1::before{
-  content: "Química"
-}
-
 header h3::before{
   content: "Prof.: Carlos Zacchi"
 }
@@ -141,4 +137,5 @@ footer img{
 }
 .titulo{
   border:solid 2px black;
+  text-align: center;
 }
