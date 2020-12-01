@@ -135,11 +135,11 @@ margin-left: -2%;
 width: 10%;
 float: left;
 }
-#sobre {
+.sobre {
    text-align: center;
   border: solid 1px black;
 }
-#centro{
+.centro{
     display: block;
     margin-left: auto;
     margin-right: auto;
