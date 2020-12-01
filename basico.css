@@ -141,3 +141,7 @@ float: left;
 border:solid 2px black;
 text-align: center;
 }
+#sobre {
+  text-align: center;
+  border: solid 1px black;
+}
